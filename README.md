@@ -41,12 +41,4 @@ Agriculture-yield-prediction/
 4️⃣ Evaluation: F1, AUC-ROC, Accuracy  
 5️⃣ Explainability: SHAP and Feature Importance  
 
-##  How to Run
-
-```bash
-pip install -r requirements.txt
-python src/data_handling.py
-python src/visualization.py
-python src/model_training.py
-
 
