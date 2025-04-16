@@ -30,14 +30,14 @@ Agriculture-yield-prediction/
 
 ##  Tech Stack
 - Language: Python 3.x
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost, LightGBM, SHAP
-- Tools: Jupyter Notebook, GitHub
+- Libraries: Dask, Pandas, NumPy, joblib , Matplotlib, Seaborn, Scikit-Learn, XGBoost, SHAP
+- Tools: Google Colab, GitHub
   
 ##  Workflow
 
 1️⃣ Data Cleaning (missing values, encoding, scaling)  
 2️⃣ Exploratory Data Analysis (EDA)  
-3️⃣ Model Training: RandomForest, XGBoost, LightGBM  
+3️⃣ Model Training: RandomForest, XGBoost
 4️⃣ Evaluation: F1, AUC-ROC, Accuracy  
 5️⃣ Explainability: SHAP and Feature Importance  
 
