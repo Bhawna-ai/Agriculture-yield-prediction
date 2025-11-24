@@ -27,7 +27,7 @@ The model demonstrates excellent performance metrics:
 - MAE: 17.68
 - MAPE: 49.47%
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Stack!
 
 - Python 3.x
 - Dask (for parallel processing)
